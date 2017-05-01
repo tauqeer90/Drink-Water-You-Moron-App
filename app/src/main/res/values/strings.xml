@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">"Drink Water You Moron"</string>
+
+    <!-- Strings for the MainActivity -->
+    <string name="instructions">
+        Press the glass of water after you\'ve drunk some water you MORON.</string>
+    <string name="water_increment_content_desc">Press to record drinking water</string>
+    <string name="charging_plug_content_desc">charging plug image</string>
+
+    <string name="default_water_count">0</string>
+    <string name="default_charge_notification_count">DRINK YOU MORON reminder sent 0 times</string>
+
+    <plurals name="charge_notification_count">
+        <item quantity="zero">DRINK YOU MORON reminder sent %d times</item>
+        <item quantity="one">DRINK YOU MORON reminder sent %d time</item>
+        <item quantity="other">DRINK YOU MORON reminder sent %d times</item>
+    </plurals>
+
+
+    <!-- Strings for Notifications and Toasts -->
+    <string name="water_chug_toast">GLUG GLUG GLUG</string>
+
+    <string name="charging_reminder_notification_title">Not a MORON anymore - Where\'s that water?</string>
+    <string name="charging_reminder_notification_body">There\'s never a better time to drink water. Drink up!</string>
+
+</resources>
